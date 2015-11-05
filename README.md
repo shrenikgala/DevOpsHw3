@@ -44,5 +44,5 @@ var server = proxy.listen(80, function(){
 Also adding every http server in a "servers" queue 
 <pre> client.lpush("servers",'http://'+ host +':' + port);</pre>
 
-## Working Gif
+## Screencast
 ![Image](https://github.com/shrenikgala/DevOpsHw3/blob/master/gif.gif)
