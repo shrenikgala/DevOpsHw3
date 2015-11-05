@@ -45,4 +45,4 @@ Also adding every http server in a "servers" queue
 <pre> client.lpush("servers",'http://'+ host +':' + port);</pre>
 
 ## Working Gif
-![Image]
+![Image](https://github.com/shrenikgala/DevOpsHw3/blob/master/gif.gif)
